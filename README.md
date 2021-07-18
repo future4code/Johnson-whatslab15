@@ -1,12 +1,14 @@
-# Johnson-whatslab15 Whtslab 
+# Johnson-whatslab15 Whatslab
 
 #  Sobre o Projeto
- 
+
 Whatslab  é  um dos exercicios quinzenais do curso de Desenvolvedor Front-End com React da Labenu
 
 A aplicação trata-se de um aplicativo de lista de mensagens
 
 # Escopo do Projeto
+
+##link do exercicioo https://labenu.notion.site/NW05-WhatsLab-993d777f1c444f70bf5cf722ee88c0d8
 
 O cliente dessa vez está tentando fazer uma utopia (vocês vão reparar que isto é muito comum no mercado): criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhatsApp, Telegram, Messenger e muitos outros. 
 
